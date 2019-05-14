@@ -51,7 +51,7 @@ topics:
 
   - name: HTML
     web_url: https://github.com/topics/html
-    https://github.com/Dragonblitz10/HomePage/releases/download/assets/html.jpg
+    image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/html.jpg
   
   - name: MySQL
   
