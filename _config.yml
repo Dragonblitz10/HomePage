@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -41,7 +41,7 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
+   website: https://dragonblitz10.ml
   # youtube: your_username
 
 topics:
@@ -54,6 +54,8 @@ topics:
     image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/html.jpg
   
   - name: MySQL
+  - web_url: https://github.com/topics/mysql
+  - image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/MySQL.png
   
   - name: Node Js
     web_url: https://github.com/topics/nodejs
@@ -61,4 +63,4 @@ topics:
     
   - name: php
     web_url: https://github.com/topics/php
-    image_url: https://github-production-release-asset-2e65be.s3.amazonaws.com/186611214/5198b600-764e-11e9-8d5e-36b2497b23f1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190514%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190514T124503Z&X-Amz-Expires=300&X-Amz-Signature=422e8b69c35f7e91284d8056a7a7a42a1ce6796a1fda844d2abd738e54128ca2&X-Amz-SignedHeaders=host&actor_id=0&response-content-disposition=attachment%3B%20filename%3Dphp.png&response-content-type=application%2Foctet-stream
+    image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/php.png
