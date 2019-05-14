@@ -25,7 +25,7 @@ projects:
   exclude:
     forks: true
     projects:
-    # - repo-name
+     - HomePage
 
   # social_media:
   # behance: your_username
@@ -68,3 +68,12 @@ topics:
   - name: php
     web_url: https://github.com/topics/php
     image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/php.png
+
+    
+  - name: swift
+    web_url: https://github.com/topics/swift
+    image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/swift.png
+
+  - name: Batch
+    web_url: https://github.com/topics/batch
+    image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/batch.png
