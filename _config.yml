@@ -57,6 +57,10 @@ topics:
   - web_url: https://github.com/topics/mysql
   - image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/MySQL.png
   
+  - name: JavaScript
+  - web_url: https://github.com/topics/javascript
+  - image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/JavaScript.png
+  
   - name: Node Js
     web_url: https://github.com/topics/nodejs
     image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/Node.js.png
