@@ -77,3 +77,7 @@ topics:
   - name: Batch
     web_url: https://github.com/topics/batch
     image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/batch.png
+    
+  - name: Java
+  - web_url: https://github.com/topics/java
+  - image_url: https://github.com/Dragonblitz10/HomePage/releases/download/assets/java.png
